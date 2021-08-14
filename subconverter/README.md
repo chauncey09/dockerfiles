@@ -12,6 +12,9 @@ Docker [stilleshan/subconverter](https://hub.docker.com/r/stilleshan/subconverte
 - **全球拦截** 增加`节点选择`,以满足`Google Analytics`等广告统计工具的访问需求.(新版本可能已解决此需求)
 - **修改时区** 镜像默认时区为 Asia/Shanghai
 
+## 修改
+添加个人对应规则文件
+
 ## 更新
 **2021-06-09** 更新`v0.6.4`版 docker 镜像,新增同时支持 X86 和 ARM 架构.
 
