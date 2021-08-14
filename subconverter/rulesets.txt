@@ -1,5 +1,11 @@
 🎯 全球直连,rules/LocalAreaNetwork.list
 Ⓜ️ 微软服务,rules/MSServices.list
+📖 科研工作,https://raw.githubusercontent.com/chauncey09/sub-web-rule/main/Research.list
+🏫 HIT,https://raw.githubusercontent.com/chauncey09/sub-web-rule/main/HIT.list
+🏨 SDNU,https://raw.githubusercontent.com/chauncey09/sub-web-rule/main/SDNU.list
+🏠 ChinaSpace,https://raw.githubusercontent.com/chauncey09/sub-web-rule/main/ChinaSpace.list
+🎬 Emby,https://raw.githubusercontent.com/chauncey09/sub-web-rule/main/Emby.list
+🔍 谷歌学术,https://raw.githubusercontent.com/chauncey09/sub-web-rule/main/Googlescholar.list
 🎯 全球直连,rules/DivineEngine/Surge/Ruleset/Unbreak.list
 🛑 全球拦截,rules/NobyDa/Surge/AdRule.list
 🛑 全球拦截,rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list
